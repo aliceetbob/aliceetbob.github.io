@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Où est Charly ?</title>
+    <link>https://aliceetbob.github.io/</link>
+    <description>Recent content on Où est Charly ?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 17 Feb 2020 14:11:38 +0100</lastBuildDate>
+    
+	<atom:link href="https://aliceetbob.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello world!</title>
+      <link>https://aliceetbob.github.io/posts/000_hello_world/</link>
+      <pubDate>Mon, 17 Feb 2020 14:11:38 +0100</pubDate>
+      
+      <guid>https://aliceetbob.github.io/posts/000_hello_world/</guid>
+      <description>Premier post sur ce blog !</description>
+    </item>
+    
+  </channel>
+</rss>
