@@ -5,18 +5,19 @@
     <link>https://aliceetbob.github.io/</link>
     <description>Recent content on Où est Charly ?</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 17 Feb 2020 14:11:38 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2020 12:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://aliceetbob.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello world!</title>
-      <link>https://aliceetbob.github.io/posts/000_hello_world/</link>
-      <pubDate>Mon, 17 Feb 2020 14:11:38 +0100</pubDate>
+      <title>Avant-propos</title>
+      <link>https://aliceetbob.github.io/posts/000_avant_propos/</link>
+      <pubDate>Tue, 18 Feb 2020 12:00:00 +0100</pubDate>
       
-      <guid>https://aliceetbob.github.io/posts/000_hello_world/</guid>
-      <description>Premier post sur ce blog !</description>
+      <guid>https://aliceetbob.github.io/posts/000_avant_propos/</guid>
+      <description>Bonjour mon très cher Charly !
+Je profite de ce support pour pouvoir t&#39;écrire quelques mots, partager mes joies, mes craintes et mes tracas. En ce moment, ce n&amp;rsquo;est pas ça niveau moral, car nous t&amp;rsquo;attendons toujours, Charly (ou peut-être Charlotte ?). Nous t&amp;rsquo;attendons depuis quelques années maintenant et nous sommes impatients de te rencontrer. J&amp;rsquo;espère simplement que tu auras la chance de lire ces lignes, et que tu ne resteras pas l&amp;rsquo;enfant imaginaire que nous avions tant espéré.</description>
     </item>
     
   </channel>
